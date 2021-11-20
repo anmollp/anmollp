@@ -23,7 +23,6 @@ I am a **Gator** 🐊 pursuing a masters in Computer and Information Science fro
 - 🤔 My interests are Algorithms/Data Structures, Distributed Systems, Databases, Software Engineering, Machine Learning;
 - 📫 Drop mails at anmollp@gmail.com.
 
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -36,9 +35,6 @@ I am a **Gator** 🐊 pursuing a masters in Computer and Information Science fro
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<[Anmols's github stats](https://github-readme-stats.vercel.app/api?username=anmollp&show_icons=true&hide_border=true)>
-<p align="left">
-  <img src="https://gpvc.arturio.dev/meanmachin3" alt="Profile views" />
-</p>
-⭐️ From [Anmol Patil](https://github.com/anmollp)
-![Flow](flow.png)
+![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmollp&show_icons=true&hide_border=true) \
+![Flow](flow.jpeg)
+<p align="left">  <img src="https://gpvc.arturio.dev/meanmachin3" alt="Profile views" /> </p>
