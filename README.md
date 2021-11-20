@@ -18,10 +18,10 @@ I am a **Gator** 🐊 pursuing a masters in Computer and Information Science fro
 
 **My journey:**
 
-- 👨🏽‍💻 I worked as a Data Engineer with [Jio Platforms](https://www.jio.com/)
+- 👨🏽‍💻 I worked as a Data Engineer 📊 with [Jio Platforms](https://www.jio.com/);
 - 🌱 I am currently learning Analysis of Algorithms, Databases, Distributed Systems and Frontend Development;
-- 🤔 My interests are Algorithms/Data Structures, Distributed Systems, Databases, Software Engineering, Machine Learning;
-- 📫 Drop mails at anmollp@gmail.com.
+- 🤔 My interests are Algorithms/Data Structures, Distributed Systems, Databases, Software Engineering and Machine Learning;
+- 📫 Drop me mails at anmollp@gmail.com;
 
 **Languages and Tools:**  
 
